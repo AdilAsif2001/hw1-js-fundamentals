@@ -116,7 +116,7 @@ const student = {
   }
 };
 
-// ============ TEST YOUR CODE ============
+// ============ TEST YOUR CODE =============
 // Test Part 1
 console.log("=== Part 1: Arrays ===");
 console.log("Numbers:", numbers);
